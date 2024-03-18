@@ -96,7 +96,7 @@ setup(
         "test": requirements_test,
         "all": requirements_all
     },
-    python_requires=">=3.6.0, <3.12",
+    python_requires=">=3.6.0, <3.12.2",
     classifiers=[
         "Environment :: Console",
         "Natural Language :: English",
